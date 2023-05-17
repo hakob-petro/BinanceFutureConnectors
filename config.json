@@ -1,0 +1,10 @@
+{
+  "Project": {
+    "VERBOSE": 3,
+    "LOG_FILE": "binance.log",
+    "CONN_NUM": 5,
+    "CONN_TIMEOUT": 60,
+    "BINANCE_FUTURES_WS": "wss://fstream.binance.com/ws",
+    "DATA_DIR": ".\\data"
+  }
+}
